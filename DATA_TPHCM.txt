@@ -1,0 +1,12 @@
+#
+Ma kho: 1
+Ten kho: BDINH
+Dia chi: TPHCM
+#
+Ma kho: 2
+Ten kho: hsssb
+Dia chi: TPHCM
+#
+Ma kho: 4
+Ten kho: BBB
+Dia chi: TPHCM

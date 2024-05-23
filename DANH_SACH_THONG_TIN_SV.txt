@@ -1,0 +1,16 @@
+So luong sinh vien: 3
+#
+MSSV: 1
+Ho va ten: hung
+Ma lop: 32
+Diem trung binh: 7
+#
+MSSV: 3
+Ho va ten: ngm
+Ma lop: 35
+Diem trung binh: 10
+#
+MSSV: 2
+Ho va ten: kh
+Ma lop: 6
+Diem trung binh: 8
